@@ -1,7 +1,7 @@
 # OTS React.JS - Django Web Application 
 This repository servers as a template for creating React.JS - Django Web Applications. Note that the Django <strong>SECRET_KEY</strong> is being exposed here. Please create an entirely new project when starting your actual project. Django SECRET_KEY is used to provide crypthographic signature and it is unique between all Django instances.
 
-![Sample Solution Architecture](https://github.com/peanutsee/reactjs-django-boilerplate/blob/main/Sample%20Solution%20Architecture.png)
+![Sample Solution Architecture](https://github.com/NickBot-dev/OTS-Scaffolding-ReactDjango/blob/main/Sample%20Solution%20Architecture.png)
 
 ## File system
 
@@ -48,7 +48,7 @@ project_root
 Clone this repository to your local computer
 
 ```bash
-git clone https://github.com/peanutsee/reactjs-django-boilerplate.git
+git clone https://github.com/NickBot-dev/OTS-Scaffolding-ReactDjango.git
 ```
 
 Start Python <a href="https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/">virtual environment</a> in the directory you cloned the repository to
@@ -114,6 +114,4 @@ Save frontend dependencies in package.json (when you forget to --save during ins
 npm init
 ```
 
-## Authors
-- [Darryl See Wei Shen](https://github.com/peanutsee)
-- [Elizabeth Lee Yuet Ern](https://github.com/luppieliz)
+
